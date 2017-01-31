@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: 
+Sitemap: http://xn--6ocaa8obb.xn--fpcrj9c3d/sitemap.xml
